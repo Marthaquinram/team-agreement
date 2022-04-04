@@ -20,7 +20,7 @@
 
 #### In which professional competencies do you each want to develop greater strength?
 - Derek: I would like to further develop process within the Craft Competency. I feel like this project is a great opportunity to focus on just that with my team. I naturally see the end result and know where I want to/need to go. If I’m at A, I can see J and M and S along the way to Z, but figuring out how to get there in-between is where my brain sometimes struggles. I’m going to focus on completing small, measured steps with my team as development.
-- Martha: I want to develop greater strength in confidence and speaking, I want to confidently read code out loud and be able to understand the code I’m reading or writing. Work on innovation as well to be able to bring ideas to the table.
+- Martha: I want to develop greater strength in confidence and speaking, I want to confidently read code out loud and be able to understand the code I’m reading or writing. Work on innovation as well to be able to bring ideas to the table and confidently discuss them with the team.
  
 - John:
     - Technical - Will need to learn how to form ideas into solid engineering principles.
